@@ -1,9 +1,9 @@
 ---
 layout: page
 title: "Tags"
-description: "哈哈，你找到了我的文章基因库"  
+description: "I don't know the usage of tags now"  
 header-img: "img/semantic.jpg"  
 ---
 
-This is under constructing.
+This is under constructing
 
