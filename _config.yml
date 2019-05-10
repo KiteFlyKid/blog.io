@@ -4,7 +4,7 @@ header-img: "img/green.jpg"
 tagline: "cn"  
 description: "有幸遇见你"  # 一句话描述你的博客
 baseurl: ""
-url: "http://cnfeat"  # 此处填写你的博客地址 
+url: "https://mswatching.com"  # 此处填写你的博客地址 
 
 # About/contact
 owner: 
@@ -18,7 +18,7 @@ gavatar: img/favicon.png # 浏览器地址栏小图标，可自定义更改
 favicon: img/favicon.png # 浏览器地址栏小图标，可自定义更改
 
 douban_username:  # 你的豆瓣id
-twitter_username: @miccshaun
+twitter_username: miccshaun
 github_username: KiteFlyKid
 facebook_username: 
 weibo_username: 
