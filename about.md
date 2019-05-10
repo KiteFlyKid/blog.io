@@ -6,7 +6,7 @@ header-img: "img/green.jpg"
 ---
 
 I'm a freshman majoring in cyber security SCU.
-This is a place for me to test my git skill,do some experiments or improve my online writing 
+This is a place for me to test my git skill,do some experiments or improve my online writing \n
 Anything , contact me’’。
 
 
