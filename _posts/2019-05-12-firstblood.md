@@ -3,6 +3,7 @@ layout: post
 title: Hello world
 date: 2019-05-10
 categories: blog
+comments: True
 tags: [标签一,标签二]
 description: 文章金句。
 ---
